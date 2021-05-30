@@ -9,3 +9,4 @@ def swapfile():
         b.write(data_a)
 
 swapfile()
+print("Prank accomplished!")
